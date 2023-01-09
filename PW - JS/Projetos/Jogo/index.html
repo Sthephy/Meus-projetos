@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+	<title>Mata mosquito - jogo</title>
+	<meta charset="UTF-8" />
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+	<script src="script.js"></script>
+</head>
+
+	<body onresize="ajustaPalco()">
+		<!-- <img src="img/mosquito.png" class="Mosq01" /> -->
+		
+		<!-- <script>posRandom()</script> -->
+		
+		<div class="painel">
+			<div class="vidas">
+				<img src="img/coracao_cheio.png" id="v1" />
+				<img src="img/coracao_cheio.png" id="v2" />
+				<img src="img/coracao_cheio.png" id="v3" />
+			</div>
+			
+			<div class="timer">
+				Tempo restante - <span id="tempo"></span>
+			</div>
+		</div>
+		
+		<script>
+			// posRandom()
+			document.getElementById('tempo').innerHTML = time
+			
+			var criarMosq = setInterval(function(){posRandom()}, gerarTimer); //setinterval(<ação>, em um ciclo de tempo);
+		</script>
+	</body>
+</html>

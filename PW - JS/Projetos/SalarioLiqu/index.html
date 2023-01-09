@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+	<title>Salários</title>
+    <meta charset="UTF-8">
+    <link href="estilo.css" rel="stylesheet" type="text/css">
+</head>
+
+	<body>
+	
+		<div class="titulo">
+			<P>Valor a reduzir do IR</P>
+		</div>
+			<label for="txt-nome">Salário Bruto: </label>
+		<input type="text" id="salario" name="bruto" size="30">
+		<label for="txt-nome">Salário liquido: </label>
+		
+		<div class="resultado" id="valor"></div>
+		
+			<br><br>
+		
+		<button id="calcular">Calcular</button>
+		<button onclick="limpar()">Limpar</button>
+		
+		<script src="script.js"></script>
+</body>
+</html>
