@@ -1,0 +1,13 @@
+T:\2 ETIM DS\2ETIMDS - PEDRO E STHEPHANY\DS\Projetos\Veiculos\Veiculos\Veiculos\obj\Debug\Veiculos.csproj.AssemblyReference.cache
+T:\2 ETIM DS\2ETIMDS - PEDRO E STHEPHANY\DS\Projetos\Veiculos\Veiculos\Veiculos\obj\Debug\Veiculos.csproj.SuggestedBindingRedirects.cache
+T:\2 ETIM DS\2ETIMDS - PEDRO E STHEPHANY\DS\Projetos\Veiculos\Veiculos\Veiculos\obj\Debug\Veiculos.frmVeiculos.resources
+T:\2 ETIM DS\2ETIMDS - PEDRO E STHEPHANY\DS\Projetos\Veiculos\Veiculos\Veiculos\obj\Debug\Veiculos.frmCaminhoes.resources
+T:\2 ETIM DS\2ETIMDS - PEDRO E STHEPHANY\DS\Projetos\Veiculos\Veiculos\Veiculos\obj\Debug\Veiculos.frmCarros.resources
+T:\2 ETIM DS\2ETIMDS - PEDRO E STHEPHANY\DS\Projetos\Veiculos\Veiculos\Veiculos\obj\Debug\Veiculos.Properties.Resources.resources
+T:\2 ETIM DS\2ETIMDS - PEDRO E STHEPHANY\DS\Projetos\Veiculos\Veiculos\Veiculos\obj\Debug\Veiculos.csproj.GenerateResource.cache
+T:\2 ETIM DS\2ETIMDS - PEDRO E STHEPHANY\DS\Projetos\Veiculos\Veiculos\Veiculos\obj\Debug\Veiculos.csproj.CoreCompileInputs.cache
+T:\2 ETIM DS\2ETIMDS - PEDRO E STHEPHANY\DS\Projetos\Veiculos\Veiculos\Veiculos\bin\Debug\Veiculos.exe.config
+T:\2 ETIM DS\2ETIMDS - PEDRO E STHEPHANY\DS\Projetos\Veiculos\Veiculos\Veiculos\bin\Debug\Veiculos.exe
+T:\2 ETIM DS\2ETIMDS - PEDRO E STHEPHANY\DS\Projetos\Veiculos\Veiculos\Veiculos\bin\Debug\Veiculos.pdb
+T:\2 ETIM DS\2ETIMDS - PEDRO E STHEPHANY\DS\Projetos\Veiculos\Veiculos\Veiculos\obj\Debug\Veiculos.exe
+T:\2 ETIM DS\2ETIMDS - PEDRO E STHEPHANY\DS\Projetos\Veiculos\Veiculos\Veiculos\obj\Debug\Veiculos.pdb
