@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">guiaCeluLoL</string>
+    <string name="btnGuia">Champs</string>
+    <string name="btnJogo">0/10</string>
+    <string name="txtLoL">Guia CeluLoL</string>
+    <string name="txtLane">Lanes</string>
+    <string name="btnVoltar">Voltar</string>
+    <string name="btnWT">Wild Tour</string>
+    <string name="btnEmail">Riot</string>
+
+    <string name="txtSpell">Spells</string>
+    <string name="txtRunas">Runas</string>
+    <string name="txtItens">Itens</string>
+    <string name="imgSpell">Spells</string>
+    <string name="imgRunas">Runas</string>
+    <string name="imgItens">Itens</string>
+
+    <string name="bot">Bot</string>
+    <string name="top">Top</string>
+    <string name="sup">Suporte</string>
+    <string name="jg">Jungle</string>
+    <string name="mid">Mid</string>
+
+    <string name="txtSorye">Sorye!</string>
+    <string name="gifTornado">Gif do Tornado</string>
+    <string name="imgYasuo">Yasuo</string>
+
+    <string name="nAshe">Nome: Ashe</string>
+    <string name="nKayle">Nome: Kayle</string>
+    <string name="nPantheon">Nome: Pantheon</string>
+    <string name="nKhaZix">Nome: Kha Zix</string>
+    <string name="nYasuo">Nome: Yasuo</string>
+    <string name="nShen">Nome: Shen</string>
+
+    <string name="lAshe">Lane: Duo</string>
+    <string name="lKayle">Lane: Top/Mid</string>
+    <string name="lPantheon">Lane: Jungle/Sup</string>
+    <string name="lKhaZix">Lane: Jungle</string>
+    <string name="lYasuo">Lane: Mid/Duo</string>
+    <string name="lShen">Lane: Top</string>
+
+    <string name="tAshe">Tipo de Dano: Físico</string>
+    <string name="tKayle">Tipo de Dano: Mágico/Físico</string>
+    <string name="tPantheon">Tipo de Dano: Físico</string>
+    <string name="tKhaZix">Tipo de Dano: Físico</string>
+    <string name="tYasuo">Tipo de Dano: Físico</string>
+    <string name="tShen">Tipo de Dano: Mágico/Físico</string>
+
+    <string name="dAshe">Dificuldade: Fácil</string>
+    <string name="dKayle">Dificuldade: Média</string>
+    <string name="dPantheon">Dificuldade: Média</string>
+    <string name="dKhaZix">Dificuldade: Média</string>
+    <string name="dYasuo">Dificuldade: Difícil</string>
+    <string name="dShen">Dificuldade: Média</string>
+
+    <string name="sobre">Sobre:</string>
+
+    <string name="iAshe">A mãe de guerra Glacinata da tribo de Avarosa, Ashe comanda a horda mais populosa do norte. Estoica, inteligente e idealista, mesmo que desconfortável com seu papel de liderança, ela canaliza as magias ancestrais de sua linhagem para empunhar um arco de Gelo Verdadeiro. Com a crença de seu povo de que Ashe seria a heroína mítica, Avarosa, reencarnada, ela espera unificar Freljord mais uma vez, retomando suas antigas terras tribais.</string>
+    <string name="iKayle">Nascida de um Aspecto targonense no auge das Guerras Rúnicas, Kayle honrava o legado de sua mãe lutando por justiça com asas de chamas divinas. Ela e sua irmã gêmea, Morgana, foram as protetoras de Demacia por muitos anos, até Kayle se desiludir com as repetidas falhas dos mortais e abandonar de vez o plano mortal. Mesmo assim, reza a lenda que ela continua punindo malfeitores com suas espadas de fogo, e muitos esperam que um dia ela retorne…</string>
+    <string name="iPantheon">Antes um relutante portador do Aspecto da Guerra, Atreus conseguiu sobreviver quando o poder celestial dentro dele foi morto, recusando-se a sucumbir a um golpe que arrancou estrelas do céu. Com o tempo, ele aprendeu a usar o poder de sua própria mortalidade e da persistente resiliência que veio com ela. Hoje, Atreus se opõe a tudo o que é divino com o renascimento de um novo Pantheon, e sua inabalável determinação é o que alimenta as armas do antigo Aspecto no campo de batalha.</string>
+    <string name="iKhaZix">O Vazio cresce e o Vazio se adapta, e nenhuma de suas outras criaturas incorpora isso tão bem quanto Kha Zix. A evolução é o que impulsiona a essência desse horror mutável, nascido para sobreviver e destruir os mais fortes. Qualquer momento de dificuldades em fazê-lo só o faz criar modos novos e mais efetivos de neutralizar e matar sua presa. Inicialmente uma fera irracional, a inteligência de Kha Zix se desenvolveu tanto quanto sua forma. Agora, a criatura planeja suas caças e até faz uso do horror visceral que causa em suas vítimas.</string>
+    <string name="iYasuo">Yasuo, um ioniano extremamente determinado, é também um ágil espadachim que usa o próprio ar como arma para enfrentar seus inimigos. Quando jovem, ele teve seu orgulho ferido ao ser acusado injustamente do assassinato de seu mestre — sem conseguir provar sua inocência, ele foi forçado a matar o próprio irmão para se defender. Até hoje, mesmo depois do verdadeiro assassino do seu mestre ter sido revelado, Yasuo ainda não consegue se perdoar e vaga por sua terra natal com apenas o vento para guiar sua espada.</string>
+    <string name="iShen">Para os guerreiros ionianos sigilosos conhecidos como Kinkou, Shen, o Olho do Crepúsculo, é um líder. Ele busca permanecer livre da confusão das emoções, preconceito ou ego, caminhando pelo caminho nunca visto do julgamento imparcial entre o reino dos espíritos e o mundo físico. Incumbido de impor harmonia entre os dois, Shen empunha lâminas de aço e energia arcana contra qualquer um que ameaçar o equilíbrio.</string>
+
+    <string name="reco">Recomendações</string>
+    <string name="chNavegador">Site</string>
+</resources>

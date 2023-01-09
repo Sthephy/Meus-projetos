@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1CA4C6"
+    tools:context=".listaChamp">
+
+    <Button
+        android:id="@+id/btnRecoA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="308dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="8dp"
+        android:onClick="Voltar"
+        android:text="@string/btnVoltar"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgShen" />
+
+    <ImageButton
+        android:id="@+id/imgAshe"
+        android:layout_width="94dp"
+        android:layout_height="94dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="37dp"
+        android:layout_marginEnd="27dp"
+        android:contentDescription="@string/bot"
+        android:onClick="Ashe"
+        app:layout_constraintBottom_toTopOf="@+id/imgKhazix"
+        app:layout_constraintEnd_toStartOf="@+id/imgKayle"
+        app:layout_constraintHorizontal_bias="0.51"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ashe"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <ImageButton
+        android:id="@+id/imgKayle"
+        android:layout_width="94dp"
+        android:layout_height="94dp"
+        android:layout_marginTop="37dp"
+        android:contentDescription="@string/mid"
+        android:onClick="Kayle"
+        app:layout_constraintBottom_toTopOf="@+id/imgYasuo"
+        app:layout_constraintEnd_toStartOf="@+id/imgPantheon"
+        app:layout_constraintStart_toEndOf="@+id/imgAshe"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/kayle"
+        tools:ignore="SpeakableTextPresentCheck,DuplicateSpeakableTextCheck" />
+
+    <ImageButton
+        android:id="@+id/imgKhazix"
+        android:layout_width="94dp"
+        android:layout_height="94dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="34dp"
+        android:layout_marginBottom="472dp"
+        android:contentDescription="@string/jg"
+        android:onClick="KhaZix"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/imgYasuo"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgAshe"
+        app:srcCompat="@drawable/kha_zix"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <ImageButton
+        android:id="@+id/imgPantheon"
+        android:layout_width="94dp"
+        android:layout_height="94dp"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="37dp"
+        android:layout_marginEnd="17dp"
+        android:contentDescription="@string/sup"
+        android:onClick="Pantheon"
+        app:layout_constraintBottom_toTopOf="@+id/imgShen"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imgKayle"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.51"
+        app:srcCompat="@drawable/pantheon"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <ImageButton
+        android:id="@+id/imgYasuo"
+        android:layout_width="94dp"
+        android:layout_height="94dp"
+        android:layout_marginStart="27dp"
+        android:layout_marginTop="34dp"
+        android:layout_marginBottom="472dp"
+        android:contentDescription="@string/mid"
+        android:onClick="Yasuo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/imgShen"
+        app:layout_constraintStart_toEndOf="@+id/imgKhazix"
+        app:layout_constraintTop_toBottomOf="@+id/imgKayle"
+        app:srcCompat="@drawable/yasuo" />
+
+    <ImageButton
+        android:id="@+id/imgShen"
+        android:layout_width="94dp"
+        android:layout_height="94dp"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="34dp"
+        android:layout_marginEnd="17dp"
+        android:layout_marginBottom="416dp"
+        android:contentDescription="@string/top"
+        android:onClick="Shen"
+        app:layout_constraintBottom_toTopOf="@+id/btnRecoA"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imgYasuo"
+        app:layout_constraintTop_toBottomOf="@+id/imgPantheon"
+        app:srcCompat="@drawable/shen" />
+
+</android.support.constraint.ConstraintLayout>

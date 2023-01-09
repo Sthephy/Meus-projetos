@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1CA4C6"
+    tools:context=".Recomendacoes">
+
+    <ImageView
+        android:id="@+id/imgAshe"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="26dp"
+        android:layout_marginEnd="297dp"
+        android:contentDescription="@string/bot"
+        app:layout_constraintBottom_toTopOf="@+id/txtSpell"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ashe" />
+
+    <TextView
+        android:id="@+id/txtSpell"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="17dp"
+        android:layout_marginTop="36dp"
+        android:layout_marginEnd="356dp"
+        android:layout_marginBottom="550dp"
+        android:contentDescription="@string/dAshe"
+        android:text="@string/txtSpell"
+        android:textColor="#000000"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgAshe" />
+
+    <TextView
+        android:id="@+id/txtRunas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="356dp"
+        android:layout_marginBottom="300dp"
+        android:text="@string/txtRunas"
+        android:textColor="#000000"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgRunas" />
+
+    <TextView
+        android:id="@+id/txtItens"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="26dp"
+        android:layout_marginEnd="364dp"
+        android:layout_marginBottom="450dp"
+        android:text="@string/txtItens"
+        android:textColor="#000000"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgSpells" />
+
+    <ImageView
+        android:id="@+id/imgItens"
+        android:layout_width="410dp"
+        android:layout_height="185dp"
+        android:layout_marginTop="19dp"
+        android:layout_marginBottom="101dp"
+        android:contentDescription="@string/imgItens"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtRunas"
+        tools:srcCompat="@drawable/itens" />
+
+    <ImageView
+        android:id="@+id/imgSpells"
+        android:layout_width="100dp"
+        android:layout_height="39dp"
+        android:layout_marginStart="17dp"
+        android:layout_marginTop="19dp"
+        android:layout_marginEnd="294dp"
+        android:layout_marginBottom="500dp"
+        android:contentDescription="@string/imgSpell"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtSpell"
+        app:srcCompat="@drawable/spells"
+        tools:srcCompat="@drawable/spells" />
+
+    <ImageView
+        android:id="@+id/imgRunas"
+        android:layout_width="372dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="35dp"
+        android:contentDescription="@string/imgRunas"
+        app:layout_constraintBottom_toTopOf="@+id/txtRunas"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtItens"
+        tools:srcCompat="@drawable/runas" />
+
+</android.support.constraint.ConstraintLayout>
